@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SkillUpTest/SkillUpTest/AnimalDetailViewController.swift"
+            timestampString = "501228275.717669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillUpPractice3.AnimalDetailViewController.__deallocating_deinit"
+                  moduleName = "SkillUpPractice3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kotaro/Documents/iOSProjects/SkillUpTest/SkillUpTest/AnimalDetailViewController.swift"
+                  timestampString = "501228275.864952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillUpPractice3.AnimalDetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; SkillUpPractice3.AnimalDetailViewController"
+                  moduleName = "SkillUpPractice3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kotaro/Documents/iOSProjects/SkillUpTest/SkillUpTest/AnimalDetailViewController.swift"
+                  timestampString = "501228275.86664"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillUpPractice3.AnimalDetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SkillUpPractice3.AnimalDetailViewController&gt;"
+                  moduleName = "SkillUpPractice3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kotaro/Documents/iOSProjects/SkillUpTest/SkillUpTest/AnimalDetailViewController.swift"
+                  timestampString = "501228275.866778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
